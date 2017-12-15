@@ -1,0 +1,28 @@
+{
+  "allShops":{
+    "totalMoney":0,
+    "shopList":[
+      {
+        "shopId":"1001",
+        "shopName":"360智能摄像机云台版 全景监控 360全景云台1080P",
+        "shopPrice":299.00,
+        "shopNumber":1,
+        "shopImage":"img/1.png"
+      },
+      {
+        "shopId":"1002",
+        "shopName":"尼康（Nikon) D610 单反机身",
+        "shopPrice":7199.00,
+        "shopNumber":2,
+        "shopImage":"img/2.png"
+      },
+      {
+        "shopId":"1003",
+        "shopName":"舒肤佳 长效护肤抑菌",
+        "shopPrice":29.00,
+        "shopNumber":1,
+        "shopImage":"img/3.jpg"
+      }
+    ]
+  }
+}

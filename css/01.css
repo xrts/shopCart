@@ -1,0 +1,117 @@
+body {
+  font-size: 16px;
+  background-color: #f8f8f8;
+}
+a:hover {
+  cursor: pointer;
+}
+.header {
+  height: 40px;
+  background-color: #ffffff;
+  text-align: center;
+  line-height: 40px;
+  font-size: 24px;
+  letter-spacing: 5px;
+}
+.safe_tip {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+main {
+  background-color: #ffffff;
+  line-height: 30px;
+}
+.shopCart_list_title {
+  padding: 5px 10px;
+  background-color: #f4f4f4;
+}
+.shopCart_list_title .cart_title {
+  font-weight: bold;
+}
+.shopCart_list_title .cart_sale {
+  color: #ff3300;
+  float: right;
+  font-size: 12px;
+}
+.shopCart_list_con {
+  padding: 10px;
+}
+.shopCart_list_con .list_con_left {
+  float: left;
+}
+.shopCart_list_con .list_con_left input {
+  height: 20px;
+  width: 20px;
+}
+.shopCart_list_con .shop_img {
+  float: left;
+  margin-left: 0;
+}
+.shopCart_list_con .shop_con {
+  margin-left: 140px ;
+}
+.shopCart_list_con .shop_con a {
+  color: #5e5e5e;
+}
+.shopCart_list_con .shop_price {
+  height: 30px;
+}
+.shopCart_list_con .shop_price .singer {
+  float: left;
+  margin-left: 20px ;
+}
+.shopCart_list_con .shop_price .total {
+  color: #ff3300;
+  float: right;
+}
+.shopCart_list_con .shop_deal {
+  margin-left: 140px ;
+  height: 30px;
+}
+.shopCart_list_con .shop_deal input {
+  width: 60px;
+  height: 23px;
+  text-align: center;
+}
+.shopCart_list_con .shop_deal .shop_deal_left {
+  float: left;
+}
+.shopCart_list_con .shop_deal .shop_deal_left span:hover {
+  cursor: pointer;
+}
+.shopCart_list_con .shop_deal .shop_deal_right {
+  float: right;
+}
+.shopCart_list_con .shop_deal .shop_deal_right a {
+  color: #2e2e2e;
+}
+.tab_bar {
+  background-color: #ffffff;
+  height: 40px;
+  line-height: 40px;
+  position: fixed;
+  width: 100%;
+  padding: 5px 10px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.tab_bar .tab_bar_left {
+  float: left;
+}
+.tab_bar .tab_bar_left .select_all {
+  float: right;
+  margin-left: 10px;
+}
+.tab_bar .tab_bar_left input {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+}
+.tab_bar .tab_bar_right {
+  float: right;
+}
+.panel {
+  display: none;
+}
